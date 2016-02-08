@@ -1,0 +1,24 @@
+{
+  "name": "botsing",
+  "version": "1.1.1",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "slackbots": "^0.5.1",
+    "socket.io": "~0.9.14",
+    "sqlite3": "^3.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "keyness"
+  ],
+  "license": "ISC"
+}
+
+//API: xoxb-18871455559-ZJJSWXUQYkaYEXwr1ZeUkIsP
